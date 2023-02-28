@@ -18,9 +18,10 @@ email: 'alanmz2002@gmail.com'
 description: "I'm a computer science undergrad from Palo Alto exploring the developer world."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alanzhang2002.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: '_alanzhang'
+twitter_username: ''
 github_username: 'AlanZhang2002'
-#medium_username: 'blog.jamigibbs.com'
+school_github_username: 'rhit-zhangam'
+medium_username: ''
 
 # Build settings
 markdown: kramdown
@@ -99,5 +100,5 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-  - { url: '/resume', text: 'Resume' }
+#  - { url: '/about', text: 'About' }
+  - { url: '/assets/pdf/resume.pdf', text: 'Resume' }

@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="569df568-169d-4b17-9d60-1ec75d9d6edc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdf/resume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/home-hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/home-hero.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-17-weathercast.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-18-phantom-jekyll-template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-19-rescue-themes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-20-bloc-jams-angular.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Alan/Documents/Code/alanzhang2002.github.io",
+    "last_opened_file_path": "C:/Users/Alan/Documents/Code/alanzhang2002.github.io/assets/pdf",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -38,6 +45,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alan\Documents\Code\alanzhang2002.github.io\assets\pdf" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677544590711</updated>
-      <workItem from="1677544591875" duration="8358000" />
+      <workItem from="1677544591875" duration="10942000" />
     </task>
     <servers />
   </component>
